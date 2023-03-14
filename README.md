@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 ![image](https://user-images.githubusercontent.com/116853492/225161276-f9fb8049-a26c-4686-9623-d9fb7935b4bd.png)
 
 **gabrielsn17/gabrielsn17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
