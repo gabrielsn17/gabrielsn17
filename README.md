@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 </br>
-(https://github.com/debysouza/gabrielsn17/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/gabrielsn17/gabrielsn17/blob/output/github-contribution-grid-snake.svg)
