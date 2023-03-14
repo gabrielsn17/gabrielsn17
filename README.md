@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-![image](https://user-images.githubusercontent.com/116853492/225161276-f9fb8049-a26c-4686-9623-d9fb7935b4bd.png)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in//)
 
 **gabrielsn17/gabrielsn17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
