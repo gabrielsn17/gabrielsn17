@@ -5,7 +5,7 @@ name: Snake Game
 on:
   schedule:
       # Será atualizado a cada 5 horas.
-    - cron: "0 /5 * *"
+    - cron: "0 */5 * * *"
 
 # Permite executar na na lista de Actions (utilizado para testes de build).
   workflow_dispatch:
@@ -23,7 +23,7 @@ jobs:
       - uses: Platane/snk@master
         id: snake-gif
         with:
-          github_user_name: "gabrielsn17" #Seu usuario
+          github_user_name: gabrielsn17 #Seu usuario
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
 
