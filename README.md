@@ -3,7 +3,8 @@
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-sant-anna-nogueira/)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@GabrielSant'AnnaNogueira#4985)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@GabrielSant'AnnaNogueira#4985)\
+![gabrielsn17 GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielsn17&show_icons=true&theme=nightowl)
 \
 **gabrielsn17/gabrielsn17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
