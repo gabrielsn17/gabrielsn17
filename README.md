@@ -22,7 +22,7 @@
     
 </div></br>
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?gabrielsn17=anuraghazra&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 - 🌱 Atualmente estou cursando a Residência em  TIC/Software do Serratec 2023.1.
