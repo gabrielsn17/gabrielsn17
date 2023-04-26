@@ -23,19 +23,16 @@
 </div></br>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsn17&hide_progress=true)](https://github.com/gabrielsn17/gabrielsn17/blob/main/README.md)
 
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielsn17&repo=github-readme-stats)](https://github.com/gabrielsn17/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsn17)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsn17&size_weight=0.5&count_weight=0.5)](https://github.com/gabrielsn17/github-readme-stats)
+
 
 
 - 🌱 Atualmente estou cursando a Residência em  TIC/Software do Serratec 2023.1.
 - 👯 Estou querendo colaborar com o desenvolvimento de Softwares.
 - 📫 Envie uma menssagem pelo Github, LinkedIn ou Discord.
 - 😄 Pronomes: Ele/Dele.
-
-
 
 
 
