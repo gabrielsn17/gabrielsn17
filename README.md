@@ -24,6 +24,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsn17&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsn17hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsn17progress=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 - 🌱 Atualmente estou cursando a Residência em  TIC/Software do Serratec 2023.1.
 - 👯 Estou querendo colaborar com o desenvolvimento de Softwares.
