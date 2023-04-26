@@ -24,7 +24,7 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsn17&layout=compact)](https://github.com/gabrielsn17/github-readme-stats)
+![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsn17&layout=compact&theme=dracula)
 
 
 
