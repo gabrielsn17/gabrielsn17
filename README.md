@@ -4,6 +4,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-sant-anna-nogueira/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@GabrielSant'AnnaNogueira#4985)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/gabrielsn17)](https://github.com/gabrielsn17)
 
 ![gabrielsn17 GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielsn17&show_icons=true&theme=nightowl)
 
@@ -19,7 +20,7 @@
     <img align="center" alt="reactnative" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </div></br>
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/gabrielsn17)](https://github.com/gabrielsn17)
+
 
 
 - 🌱 Atualmente estou cursando a Residência em  TIC/Software do Serratec 2023.1.
