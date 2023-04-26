@@ -23,7 +23,7 @@
 </div></br>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsn17&hide_progress=true)](https://github.com/gabrielsn17/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsn17&hide_progress=true)]((https://github.com/gabrielsn17/gabrielsn17/edit/main/README.md))
 
 
 
