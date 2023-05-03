@@ -24,9 +24,10 @@
 
 
 
-![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsn17&layout=compact&theme=dracula)
+![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsn17&layout=compact&langs_count=7&theme=rose_pine)
 
 
+data-canonical-src=""
 
 
 - 🌱 Atualmente estou cursando a Residência em  TIC/Software do Serratec 2023.1.
