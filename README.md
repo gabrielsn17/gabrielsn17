@@ -7,7 +7,7 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/gabrielsn17)](https://github.com/gabrielsn17)
 
 ![gabrielsn17 GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielsn17&show_icons=true&theme=nightowl)
-![gabrielsn17 GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsn17&layout=compact&langs_count=7&theme=rose_pine)
+![Gabriel Nogueira GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielsn17&show_icons=true&theme=highcontrast)
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
