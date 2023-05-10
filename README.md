@@ -24,7 +24,7 @@
 
 
 
-![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsn17&layout=compact&langs_count=7&theme=rose_pine)
+![Gabriel Nogueira GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsn17&layout=compact&langs_count=7&theme=rose_pine)
 
 
 
