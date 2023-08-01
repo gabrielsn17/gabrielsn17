@@ -29,7 +29,8 @@
 
 
 
-- 🌱 Atualmente estou cursando a Residência em  TIC/Software do Serratec 2023.1.
+- 🌱 Residência em  TIC/Software do Serratec 2023.1.
+- 📚 Cursando Tecnologia da Inforamação.
 - 👯 Estou querendo colaborar com o desenvolvimento de Softwares.
 - 📫 Envie uma menssagem pelo Github, LinkedIn ou Discord.
 - 😄 Pronomes: Ele/Dele.
