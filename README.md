@@ -1,44 +1,83 @@
-### Olá, me chamo Gabriel 👋
+# Gabriel Sant'Anna Nogueira
 
+### Full Stack Developer | Software Integrations
 
+I am a Full Stack Developer with professional experience since 2023, focused on web applications, APIs and system integrations.
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-sant-anna-nogueira/)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@GabrielSant'AnnaNogueira#4985)
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/gabrielsn17)](https://github.com/gabrielsn17)
+I currently work across frontend and backend development, building solutions with React, TypeScript, Node.js and Java/Spring Boot. My experience also includes REST APIs, Kafka, Docker, Kubernetes, authentication and SSO with Keycloak, observability with Grafana, and automation using n8n and AI-based solutions.
 
-![gabrielsn17 GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielsn17&show_icons=true&theme=nightowl)
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsn17&layout=compact&theme=nightowl)](https://github.com/gabrielsn17/github-readme-stats)
-<div style="display: inline_block"><br/>
-    <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-    <img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-    <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-    <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-    <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    <img align="center" alt="reactnative" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    <img align="center" alt="python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-    
-</div></br>
+My current interests are Software Engineering, System Integration, Cloud/Platform Engineering, Observability and Applied AI.
 
+---
 
+## Tech Stack
 
+**Frontend**  
+React • TypeScript • JavaScript • HTML • CSS
 
+**Backend & Integrations**  
+Node.js • Java • Spring Boot • Maven • REST APIs • Kafka • Keycloak
 
+**Databases**  
+PostgreSQL • MySQL • MongoDB • Supabase
 
+**DevOps & Cloud**  
+Docker • Kubernetes • K9s • AWS • Azure
 
+**Testing & Quality**  
+Jest • React Testing Library • Playwright • Postman • Insomnia
 
+**Observability & Automation**  
+Grafana • Logs • Metrics • Traces • n8n
 
-- 🌱 Residência em  TIC/Software do Serratec 2023.1.
-- 📚 Cursando Tecnologia da Inforamação.
-- 👯 Estou querendo colaborar com o desenvolvimento de Softwares.
-- 📫 Envie uma menssagem pelo Github, LinkedIn ou Discord.
-- 😄 Pronomes: Ele/Dele.
+**AI**  
+Generative AI • Embeddings • AI-powered automation
 
+---
 
+## Selected Projects
 
+### AI-Powered Public Content Classification Pipeline
 
+Automated pipeline combining browser automation with AI models to collect public institutional content, classify relevant publications and extract structured information.
 
-![snake gif](https://github.com/debysouza/debysouza/blob/output/github-contribution-grid-snake.svg)
+**Highlights:**
+- Browser automation with Playwright
+- Automated data collection and processing
+- AI-powered content classification
+- Structured information extraction
+- End-to-end automated workflow
 
+---
 
+## Professional Background
+
+I started my professional career in Front-End Development and later moved into a broader Integration Developer role.
+
+Today, my work includes:
+
+- Developing and maintaining system integrations and REST APIs
+- Building frontend solutions with React and TypeScript
+- Working with backend services using Node.js and Java/Spring Boot
+- Supporting containerized applications with Docker and Kubernetes
+- Implementing asynchronous integration flows with Kafka
+- Working with authentication and SSO using Keycloak
+- Monitoring applications through logs, metrics and traces with Grafana
+- Building automation and AI-powered workflows
+
+---
+
+## Currently Exploring
+
+- Cloud & Platform Engineering
+- Infrastructure as Code
+- CI/CD
+- Distributed Systems
+- AI Engineering / AI Platforms
+- Observability & Reliability
+
+---
+
+## Connect with me
+
+[LinkedIn](https://www.linkedin.com/in/gabriel-sant-anna-nogueira/)
