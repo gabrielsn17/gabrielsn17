@@ -1,16 +1,16 @@
 # Gabriel Sant'Anna Nogueira
 
-### Full Stack Developer | Software Integrations
+### Full Stack Developer • Software Integrations
 
-I am a Full Stack Developer with professional experience since 2023, focused on web applications, APIs and system integrations.
+Software developer with professional experience since 2023, focused on web applications, APIs and system integrations.
 
-I currently work across frontend and backend development, building solutions with React, TypeScript, Node.js and Java/Spring Boot. My experience also includes REST APIs, Kafka, Docker, Kubernetes, authentication and SSO with Keycloak, observability with Grafana, and automation using n8n and AI-based solutions.
+I work across frontend and backend development with **React, TypeScript, Node.js and Java/Spring Boot**, building and maintaining integrations used in production environments. My experience also includes **REST APIs, Kafka, Docker, Kubernetes, Keycloak, Grafana, n8n and AI-powered automation**.
 
-My current interests are Software Engineering, System Integration, Cloud/Platform Engineering, Observability and Applied AI.
+I am especially interested in **Software Engineering, System Integration, Cloud/Platform Engineering, Observability and Applied AI**.
 
 ---
 
-## Tech Stack
+## What I work with
 
 **Frontend**  
 React • TypeScript • JavaScript • HTML • CSS
@@ -30,16 +30,29 @@ Jest • React Testing Library • Playwright • Postman • Insomnia
 **Observability & Automation**  
 Grafana • Logs • Metrics • Traces • n8n
 
-**AI**  
-Generative AI • Embeddings • AI-powered automation
+**Applied AI**  
+Generative AI • Embeddings • AI-powered workflows
 
 ---
 
-## Selected Projects
+## Professional Focus
+
+- Developing and maintaining **system integrations and REST APIs**
+- Building frontend solutions with **React and TypeScript**
+- Working with backend services using **Node.js and Java/Spring Boot**
+- Supporting containerized applications with **Docker and Kubernetes**
+- Implementing asynchronous integration flows with **Kafka**
+- Working with authentication and **SSO using Keycloak**
+- Monitoring and troubleshooting applications using **Grafana, logs, metrics and traces**
+- Building automation and AI-powered workflows with **n8n, embeddings and generative AI**
+
+---
+
+## Selected Work
 
 ### AI-Powered Public Content Classification Pipeline
 
-Automated pipeline combining browser automation with AI models to collect public institutional content, classify relevant publications and extract structured information.
+End-to-end automation pipeline that combines browser automation and AI to collect public institutional content, classify relevant publications and extract structured information.
 
 **Highlights:**
 - Browser automation with Playwright
@@ -47,23 +60,6 @@ Automated pipeline combining browser automation with AI models to collect public
 - AI-powered content classification
 - Structured information extraction
 - End-to-end automated workflow
-
----
-
-## Professional Background
-
-I started my professional career in Front-End Development and later moved into a broader Integration Developer role.
-
-Today, my work includes:
-
-- Developing and maintaining system integrations and REST APIs
-- Building frontend solutions with React and TypeScript
-- Working with backend services using Node.js and Java/Spring Boot
-- Supporting containerized applications with Docker and Kubernetes
-- Implementing asynchronous integration flows with Kafka
-- Working with authentication and SSO using Keycloak
-- Monitoring applications through logs, metrics and traces with Grafana
-- Building automation and AI-powered workflows
 
 ---
 
@@ -78,6 +74,6 @@ Today, my work includes:
 
 ---
 
-## Connect with me
+## Connect
 
 [LinkedIn](https://www.linkedin.com/in/gabriel-sant-anna-nogueira/)
