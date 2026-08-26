@@ -48,7 +48,32 @@ Generative AI • Embeddings • AI-powered workflows
 
 ---
 
-## Selected Work
+## Featured Projects
+
+### [Job Match Intelligence](https://github.com/gabrielsn17/job-match-intelligence)
+Deterministic job matching and monitoring platform built with TypeScript, Next.js, Fastify, PostgreSQL, Redis and BullMQ.
+
+AI does not assign the match score. Collectors ingest real postings; a versioned engine scores compatibility, data confidence and priority.
+
+→ [View repository](https://github.com/gabrielsn17/job-match-intelligence)
+
+### [Balanced Football Team Generator](https://github.com/gabrielsn17/SorteioFutebol)
+Real-time team management application using React, Supabase and a Python OR-Tools CP-SAT optimization engine.
+
+Constrained 7-a-side draws with a TypeScript fallback when the solver is unavailable.
+
+→ [View repository](https://github.com/gabrielsn17/SorteioFutebol)
+
+### [CelestiAstros](https://github.com/gabrielsn17/CelestiAstros)
+Full Stack astronomical catalog built with React, TypeScript, Java 21, Spring Boot and PostgreSQL.
+
+Hierarchical CRUD: Galaxy → Star → Planet → Moon, with OpenAPI and a cosmic UI.
+
+→ [View repository](https://github.com/gabrielsn17/CelestiAstros)
+
+---
+
+## Other Work
 
 ### AI-Powered Public Content Classification Pipeline
 
@@ -60,6 +85,12 @@ End-to-end automation pipeline that combines browser automation and AI to collec
 - AI-powered content classification
 - Structured information extraction
 - End-to-end automated workflow
+
+Code is not public (third-party / operational data).
+
+### [Calculadora Queda Mobile](https://github.com/gabrielsn17/calculadoraQuedaMobile)
+
+Expo / React Native learning project: impact-energy estimate for a falling object. Complementary mobile sample, not a flagship.
 
 ---
 
